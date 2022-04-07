@@ -5,7 +5,7 @@
 
 <br/>
 
-## 🙋‍♂️ About Me
+##  About Me
 
 <!-- - 🔭 I’m currently working on **[Project](https://)** -->
 
