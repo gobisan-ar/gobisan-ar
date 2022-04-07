@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gobisan</h1>
 <h3 align="center">I'm a data enthusiast.</h3>
 
-<br/><br/>
+<br/>
 
 ## 🙋‍♂️ About Me
 
@@ -15,7 +15,7 @@
 
 - 📫 Reach me **gobisanldn@gmail.com**
 
-<br/><br/>
+<br/>
 
 ## 🛠 Technical Skills:
 
@@ -30,7 +30,7 @@
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
 
-<br/><br/>
+<br/>
 
 <p align="center">
     <a href="https://github.com/gobisan14/github-readme-streak-stats">
@@ -38,7 +38,7 @@
     </a>
 </p>
 
-<br/><br/>
+<br/>
 
 ## 📊 My Github Stats
 
@@ -49,7 +49,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
-<br/>
+
 
 ## 🤝 Connect with me:
 
@@ -57,7 +57,7 @@
 <a href = "https://www.linkedin.com/in/gobisan-ananthanadarajan-977b4b221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<br/><br/>
+<br/>
 
 ## ❤ Views and Followers
 
