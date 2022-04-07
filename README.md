@@ -58,9 +58,11 @@
 
 <br/>
 
+<!--
 ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=gobisan14">
 </a>
 <a href="https://github.com/gobisan14?tab=followers"><img src="https://img.shields.io/github/followers/gobisan14?label=Followers&style=social" alt="GitHub Badge"></a>
+-->
