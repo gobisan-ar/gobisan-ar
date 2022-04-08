@@ -17,25 +17,32 @@
 
 <br/>
 
-## 🛠 Technical Skills:
+## 🧰 Technical Skills:
 
-### Programming Languages:
+#### 📃 Programming: 
 ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flate&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-### Database Systems:
+#### 🛢 Database Systems:
 ![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-F29111?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
-### Tools and Platforms:
-![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
+#### 🛠 Tools and Platforms:
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flate&logo=github)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-<br/>
+</br></br>
 
 <p align="center">
     <a href="https://github.com/gobisan14/github-readme-streak-stats">
