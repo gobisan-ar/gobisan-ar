@@ -5,7 +5,7 @@
 
 <br/>
 
-## 🙋‍♂️ About Me
+## 💡 About Me
 
 <!-- - 🔭 I’m currently working on **[Project](https://)** -->
 
@@ -20,10 +20,10 @@
 ## 🧰 Technical Skills:
 
 #### 📃 Programming: 
-![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat&logo=javascript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flate&logo=html5&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -52,7 +52,7 @@
 
 <br/>
 
-## 📊 My Github Stats
+## 🔭 My Github Stats
 
   <br/>
     <a href="https://github.com/gobisan14/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gobisan14&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -62,7 +62,7 @@
 
 <br/></br>
 
-## 🤝 Connect with me:
+## 📡 Connect with me:
 
 <p align="left">
 <a href = "https://www.linkedin.com/in/gobisan-ananthanadarajan-977b4b221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
