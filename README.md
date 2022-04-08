@@ -13,7 +13,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://--.com)** -->
 
-- 📫 Reach me **gobisanldn@gmail.com**
+- 📫 You can reach me on **gobisanldn@gmail.com**
 
 <br/>
 
