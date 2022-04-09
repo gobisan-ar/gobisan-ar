@@ -25,8 +25,8 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat&logo=javascript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flate&logo=html5&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flate&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
 #### 🛢 Database Systems:
