@@ -9,7 +9,7 @@
 
 <!-- - 🔭 I’m currently working on **[Project](https://)** -->
 
-- 🎓 I’m currently learning **Data Science**
+-  I’m currently learning **Data Warehousin and Business Intelligence**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://--.com)** -->
 
