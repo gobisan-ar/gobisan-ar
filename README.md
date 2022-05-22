@@ -3,9 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gobisan</h1>
 <h3 align="center">I'm a data enthusiast.</h3>
 
-
-<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-
 <br/>
 
 ## 💡 About Me
