@@ -17,6 +17,13 @@
 
 <br/>
 
+## 🏗 Projects:
+
+- ![Data Engineering]('https://github.com/stars/gobisan14/lists/data-engineering-projects')
+- ![Web Applications]('https://github.com/stars/gobisan14/lists/web-application-projects')
+
+</br>
+
 ## 🧰 Technical Skills:
 
 #### 📃 Programming: 
