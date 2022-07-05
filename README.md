@@ -28,7 +28,7 @@
 
 #### 📃 Programming: 
 ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java)
+![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=flat&logo=javascript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
@@ -47,6 +47,11 @@
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![SSRS](https://img.shields.io/badge/SSRS-DF3900?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![SSAS](https://img.shields.io/badge/SSAS-0C6CBD?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Power_BI](https://img.shields.io/badge/Power_BI-FCD535?style=flat&logo=power-bi&logoColor=white)
+
+#### ☁ Cloud:
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 
 #### 🛠 Tools and Platforms:
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
@@ -61,7 +66,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat&logo=atom&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?style=flat&logo=sublime-text&logoColor=important)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?style=flat&logo=sublime-text&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
 
 
