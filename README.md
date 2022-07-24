@@ -13,7 +13,7 @@
 
 - 👨‍💻 Glance of my skills and projects are available at **[My Portfolio](https://gobisan14.github.io/)**
 
-- 📫 You can reach me on **gobisanldn@gmail.com**
+- 📫 You can reach me on **gobisandev@gmail.com**
 
 <br/>
 
