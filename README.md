@@ -21,6 +21,9 @@
 
 - <a href='https://github.com/stars/gobisan14/lists/data-engineering-projects' target="_blank">**Data Engineering**</a>
 - <a href='https://github.com/stars/gobisan14/lists/web-application-projects' target="_blank">**Web Applications**</a>
+- <a href='https://github.com/gobisan14/WebScraping' target="_blank">**Web Scraping**</a>
+- <a href='https://github.com/gobisan14/Automation' target="_blank">**Automation**</a>
+
 
 </br>
 
