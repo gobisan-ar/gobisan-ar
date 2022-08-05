@@ -11,7 +11,7 @@
 
 - 📚 I’m currently learning **Data Science**
 
-- 👨‍💻 Glance of my skills and projects are available at **[My Portfolio](https://gobisan14.github.io/)**
+- 👨‍💻 Glance of my skills and projects is available at **[My Portfolio](https://gobisan14.github.io/)**
 
 - 📫 You can reach me on **gobisandev@gmail.com**
 
