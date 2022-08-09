@@ -53,6 +53,7 @@
 ![Power_BI](https://img.shields.io/badge/Power_BI-FCD535?style=flat&logo=power-bi&logoColor=white)
 
 #### ☁ Cloud:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 
 #### 🛠 Tools and Platforms:
