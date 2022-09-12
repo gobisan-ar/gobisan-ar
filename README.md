@@ -1,4 +1,8 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+<p align="center">
+    <a href="#">
+        <img width = "25%" src="profile.png" />
+    </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm Gobisan</h1>
 <h3 align="center">I'm a data enthusiast.</h3>
