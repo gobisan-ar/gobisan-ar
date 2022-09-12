@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#">
-        <img width = "25%" src="profile.png" />
+        <img width = "30%" src="profile.png" />
     </a>
 </p>
 
