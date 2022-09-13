@@ -57,6 +57,11 @@
 ![SSRS](https://img.shields.io/badge/SSRS-DF3900?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Power_BI](https://img.shields.io/badge/Power_BI-FCD535?style=flat&logo=power-bi&logoColor=white)
 
+#### 🤖 Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+
 #### ☁ Cloud:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
