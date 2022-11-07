@@ -56,6 +56,7 @@
 ![SSAS](https://img.shields.io/badge/SSAS-0C6CBD?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![SSRS](https://img.shields.io/badge/SSRS-DF3900?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Power_BI](https://img.shields.io/badge/Power_BI-FCD535?style=flat&logo=power-bi&logoColor=white)
+![Databricks](https://img.shields.io/badge/databricks-%23FF3621.svg?&style=flat&logo=databricks&logoColor=white)
 
 #### 🤖 Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
