@@ -51,7 +51,7 @@
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
-#### ❄ Data Warehousing and Business Intelligence:
+#### ❄ Data Engineering and Business Intelligence:
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![SSAS](https://img.shields.io/badge/SSAS-0C6CBD?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![SSRS](https://img.shields.io/badge/SSRS-DF3900?style=flat&logo=microsoft-sql-server&logoColor=white)
