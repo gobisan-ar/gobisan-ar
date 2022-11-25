@@ -11,7 +11,7 @@
 
 ## 💡 About Me
 
-<!-- - 🔭 I’m currently working on **[Project](https://)** -->
+- 🔭 I’m currently working as a **Data Engineer**
 
 - 📚 I’m currently learning **Data Science**
 
