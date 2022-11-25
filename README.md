@@ -53,10 +53,10 @@
 
 #### ❄ Data Platform:
 ![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?&style=flat&logo=databricks&logoColor=white)
+![Power_BI](https://img.shields.io/badge/Power_BI-FCD535?style=flat&logo=power-bi&logoColor=white)
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![SSAS](https://img.shields.io/badge/SSAS-0C6CBD?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![SSRS](https://img.shields.io/badge/SSRS-DF3900?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Power_BI](https://img.shields.io/badge/Power_BI-FCD535?style=flat&logo=power-bi&logoColor=white)
 
 #### 🤖 Machine Learning
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
