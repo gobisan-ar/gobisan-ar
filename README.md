@@ -17,7 +17,7 @@
 
 - 👨‍💻 Glance of my skills and projects is available at **[My Portfolio](https://gobisan-ar.github.io/)**
 
-- 📫 You can reach me on **gobisandev@gmail.com**
+- 📫 You can reach me on **gobisan.mediaworks@gmail.com**
 
 <br/>
 
@@ -90,8 +90,8 @@
 </br></br>
 
 <p align="center">
-    <a href="https://github.com/gobisan14/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gobisan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gobisan14&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/gobisan-ar/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gobisan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gobisan-ar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -100,8 +100,8 @@
 ## 🔭 My Github Stats
 
   <br/>
-  <a href="https://github.com/gobisan14/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gobisan14&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
-  <a href="https://github.com/gobisan14/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gobisan14&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/gobisan-ar/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gobisan-ar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
+  <a href="https://github.com/gobisan-ar/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gobisan-ar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/></br>
 
@@ -117,7 +117,7 @@
 ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=gobisan14">
+    <img src="https://komarev.com/ghpvc/?username=gobisan-ar">
 </a>
-<a href="https://github.com/gobisan14?tab=followers"><img src="https://img.shields.io/github/followers/gobisan14?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/gobisan-ar?tab=followers"><img src="https://img.shields.io/github/followers/gobisan-ar?label=Followers&style=social" alt="GitHub Badge"></a>
 -->
