@@ -17,7 +17,7 @@
 
 - 👨‍💻 Glance of my skills and projects is available at **[My Portfolio](https://gobisan-ar.github.io/)**
 
-- 📫 You can reach me on **gobisan.mediaworks@gmail.com**
+- 📫 You can reach me on **[gobisan.mediaworks@gmail.com](https://www.linkedin.com/in/gobisan/)**
 
 <br/>
 
