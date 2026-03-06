@@ -97,27 +97,3 @@
 
 <br/>
 
-## 🔭 My Github Stats
-
-  <br/>
-  <a href="https://github.com/gobisan-ar/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gobisan-ar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> 
-  <a href="https://github.com/gobisan-ar/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gobisan-ar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-<br/></br>
-
-## 📡 Connect With Me:
-
-<p align="left">
-<a href = "https://www.linkedin.com/in/gobisan-ananthanadarajan-977b4b221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-</p>
-
-<br/>
-
-<!--
-## ❤ Views and Followers
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=gobisan-ar">
-</a>
-<a href="https://github.com/gobisan-ar?tab=followers"><img src="https://img.shields.io/github/followers/gobisan-ar?label=Followers&style=social" alt="GitHub Badge"></a>
--->
